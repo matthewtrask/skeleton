@@ -1,0 +1,19 @@
+{
+    "name": "Skeleton",
+    "license": "MIT",
+    "package": "Library",
+    "keywords": [
+        "test",
+        "test",
+        "test"
+    ],
+    "author": {
+        "name": "Matt Trask",
+        "role": "Developer",
+        "email": "me@matthewtrask.net"
+    }
+}{
+    "require": {
+        "Test/Test": "*"
+    }
+}
